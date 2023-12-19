@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T14:53:41.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZYnkZ6j5RXOZGvtqcupo" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T15:00:15.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1VHX0vfKsXOAUFlSRaXM" version="22.1.11" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="2284" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-4" value="Receive" style="shape=message;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="500" y="150" width="50" height="30" as="geometry" />
+          <mxGeometry x="240" y="140" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-5" value="" style="shape=message;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="120" width="40" height="30" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="375" y="400" width="125" height="90" as="geometry" />
+          <mxGeometry x="64" y="245" width="125" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-2" value="DISPATCH COSTING BY PROJECT MANAGER" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="TlXBh9cTbxRTWTGTwzo7-14" vertex="1">
           <mxGeometry width="125" height="90" as="geometry" />
@@ -187,10 +187,7 @@
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-12" value="" style="shape=message;whiteSpace=wrap;html=1;" vertex="1" parent="TlXBh9cTbxRTWTGTwzo7-14">
           <mxGeometry x="15" y="5" width="20" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-15" value="CONCEPTUALIZATION&lt;br&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="70" width="175" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-19">
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-19" target="TlXBh9cTbxRTWTGTwzo7-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="290" as="targetPoint" />
           </mxGeometry>
@@ -209,7 +206,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-19" value="APPROVAL?" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="490" y="250" width="80" height="80" as="geometry" />
+          <mxGeometry x="225" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-27" value="WAREHOUSE HANDLER RECEIVES MERCHANDISE" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="610" width="170" height="90" as="geometry" />
@@ -220,7 +217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-29" value="Request" style="shape=message;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="390" y="150" width="50" height="30" as="geometry" />
+          <mxGeometry x="80" y="130" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7a84cebc1def654-2" target="7a84cebc1def654-4">
           <mxGeometry relative="1" as="geometry" />
@@ -229,22 +226,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-36" value="SHOPPER MARKETING REQUESTS DISPATCH PROPOSAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="330" y="85" width="280" height="105" as="geometry" />
+          <mxGeometry x="70" y="75" width="280" height="105" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-39" target="TlXBh9cTbxRTWTGTwzo7-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-39" value="PURCHASE ORDER" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="260" width="150" height="60" as="geometry" />
+          <mxGeometry x="340" y="240" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-40" value="MERCHANDISE SENT TO SMOLLAN WAREHOUSE" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="950" y="255" width="150" height="70" as="geometry" />
+          <mxGeometry x="650" y="235" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-43" target="TlXBh9cTbxRTWTGTwzo7-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-43" value="COURRIER SERVICE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
