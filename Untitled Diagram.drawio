@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T15:04:37.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="k2Ugiy1Q-luGNnCzkcC3" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T15:18:28.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="P19KtDF8536_dAgclVws" version="22.1.11" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7a84cebc1def654-4" target="TlXBh9cTbxRTWTGTwzo7-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7a84cebc1def654-4" value="Receive" style="shape=message;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="240" y="140" width="50" height="30" as="geometry" />
+        <mxCell id="7a84cebc1def654-4" value="Receive" style="shape=message;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=11;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="130" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-5" value="" style="shape=message;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1020" y="120" width="40" height="30" as="geometry" />
@@ -184,7 +184,7 @@
         <mxCell id="7a84cebc1def654-2" value="DISPATCH COSTING BY PROJECT MANAGER" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="TlXBh9cTbxRTWTGTwzo7-14" vertex="1">
           <mxGeometry width="125" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-12" value="" style="shape=message;whiteSpace=wrap;html=1;" vertex="1" parent="TlXBh9cTbxRTWTGTwzo7-14">
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-12" value="" style="shape=message;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="TlXBh9cTbxRTWTGTwzo7-14">
           <mxGeometry x="15" y="5" width="20" height="17" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-19" target="TlXBh9cTbxRTWTGTwzo7-39">
@@ -205,7 +205,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-19" value="APPROVAL?" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-19" value="APPROVAL?" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=10;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-27" value="WAREHOUSE HANDLER RECEIVES MERCHANDISE" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
@@ -216,22 +216,19 @@
             <mxPoint x="7" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-29" value="Request" style="shape=message;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-29" value="Request" style="shape=message;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=11;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7a84cebc1def654-2" target="7a84cebc1def654-4">
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-36" target="7a84cebc1def654-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.328;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-29" target="7a84cebc1def654-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-36" value="SHOPPER MARKETING REQUESTS DISPATCH PROPOSAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="70" y="75" width="280" height="105" as="geometry" />
-        </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-39" target="TlXBh9cTbxRTWTGTwzo7-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-39" value="PURCHASE ORDER" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-39" value="PURCHASE ORDER" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-40" target="TlXBh9cTbxRTWTGTwzo7-47">
@@ -242,17 +239,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-40" value="MERCHANDISE SENT TO DESIGNATED DISPATCH LOCATION" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="650" y="235" width="150" height="70" as="geometry" />
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-40" value="MERCHANDISE SENT TO DESIGNATED DISPATCH LOCATION" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;verticalAlign=bottom;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="235" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-43" target="TlXBh9cTbxRTWTGTwzo7-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-43" value="COURRIER SERVICE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-43" value="COURRIER SERVICE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-47" value="DESIGNATED DISPATCH HANDLER RECEIVES, VERIFIES AND SIGNS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="49" y="360" width="140" height="75" as="geometry" />
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-47" value="DESIGNATED DISPATCH HANDLER RECEIVES, VERIFIES AND SIGNS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="358" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7a84cebc1def654-2" target="TlXBh9cTbxRTWTGTwzo7-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="245" as="sourcePoint" />
+            <mxPoint x="240" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-36" value="SHOPPER MARKETING REQUESTS DISPATCH PROPOSAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="280" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-50" value="Dispatch Preparation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="358" width="140" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
