@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T16:39:24.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bK2d-NJfQTZrM_1y81h5" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T16:44:40.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yoC3xuZnQIW-J6NYdHOM" version="22.1.11" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -40,7 +40,12 @@
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000057;labelBackgroundColor=none;fontColor=#0c032b;fontFamily=Verdana;fontStyle=1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-29" target="7a84cebc1def654-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000057;labelBackgroundColor=none;fontColor=#0c032b;fontFamily=Verdana;fontStyle=1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-39" target="TlXBh9cTbxRTWTGTwzo7-43" edge="1">
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000057;labelBackgroundColor=none;fontColor=#0c032b;fontFamily=Verdana;fontStyle=1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="104F3mkMCa6RaN5nMMO5-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-39" target="TlXBh9cTbxRTWTGTwzo7-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-39" value="PURCHASE ORDER" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;fontFamily=Verdana;fontStyle=1;strokeWidth=3;gradientColor=#ffd966;" parent="1" vertex="1">
@@ -58,13 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-40" value="MERCHANDISE SENT TO DESIGNATED DISPATCH LOCATION" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;fontStyle=1;fontSize=11;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="650" y="268" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000057;labelBackgroundColor=none;fontColor=#0c032b;fontFamily=Verdana;fontStyle=1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-43" target="TlXBh9cTbxRTWTGTwzo7-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-43" value="COURRIER SERVICE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="510" y="273" width="120" height="60" as="geometry" />
+          <mxGeometry x="648" y="268" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000057;labelBackgroundColor=none;fontColor=#0c032b;fontFamily=Verdana;fontStyle=1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-47" target="TlXBh9cTbxRTWTGTwzo7-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -93,7 +92,7 @@
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000057;labelBackgroundColor=none;fontColor=#0c032b;fontFamily=Verdana;fontStyle=1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-56" target="TlXBh9cTbxRTWTGTwzo7-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TlXBh9cTbxRTWTGTwzo7-56" value="COURRIER SERVICE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;fontStyle=1;strokeWidth=3;gradientColor=#7ea6e0;" parent="1" vertex="1">
+        <mxCell id="TlXBh9cTbxRTWTGTwzo7-56" value="COURRIER COLLECTION" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;fontFamily=Verdana;fontStyle=1;strokeWidth=3;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="530" y="391" width="140" height="75" as="geometry" />
         </mxCell>
         <mxCell id="TlXBh9cTbxRTWTGTwzo7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000057;labelBackgroundColor=none;fontColor=#0c032b;fontFamily=Verdana;fontStyle=1" parent="1" source="TlXBh9cTbxRTWTGTwzo7-58" target="TlXBh9cTbxRTWTGTwzo7-68" edge="1">
